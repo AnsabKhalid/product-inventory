@@ -1,0 +1,9 @@
+.d-flex button {
+  margin: 1.5em 0.6em;
+  padding: 0.5em 2.4em;
+}
+
+.table tbody tr td:hover {
+  cursor: pointer;
+  background-color: rgba(243, 243, 243, 0.655);
+}
